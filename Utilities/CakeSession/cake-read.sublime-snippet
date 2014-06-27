@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CakeSession::read(${1:\$name});]]></content>
+	<tabTrigger>csr</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: CakeSession::read()</description>
+</snippet>
